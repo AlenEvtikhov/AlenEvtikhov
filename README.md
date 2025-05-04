@@ -21,7 +21,7 @@
 
 📂 Проекты:
 - 🎯[Churn Predictor](https://github.com/AlenEvtikhov/bank-churn-analysis.git) — Анализ оттока клиентов регионального банка 
-- 🧠 [ReadShift](https://github.com/AlenEvtikhov/moscow-foodscape-analysis.git) — Исследование рынка для открытия нового заведения 
+- 🧠 [Foodscape](https://github.com/AlenEvtikhov/moscow-foodscape-analysis.git) — Исследование рынка для открытия нового заведения 
 - 📈 [Decisions](https://github.com/AlenEvtikhov/decisions-at-the-business-level.git) — Принятие решений в бизнесе через проверку гипотез(A/B тестирование)
 
 📫 Как связаться:

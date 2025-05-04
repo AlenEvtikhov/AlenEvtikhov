@@ -41,10 +41,15 @@ BI и визуализация:
 - 🧠 [Foodscape](https://github.com/AlenEvtikhov/moscow-foodscape-analysis.git) — Исследование рынка для открытия нового заведения 
 - 📈 [Decisions](https://github.com/AlenEvtikhov/decisions-at-the-business-level.git) — Принятие решений в бизнесе через проверку гипотез(A/B тестирование)
 - 🔻 [Purchase-funnel](https://github.com/AlenEvtikhov/purchase-funnel-A-B.git) - Анализ воронки продаж
+- 💹 [Analyzing-business](https://github.com/AlenEvtikhov/analyzing-business-indicators.git) - Анализ бизнес-показателей
 - 🎮 [Game-sales](https://github.com/AlenEvtikhov/game-sales-analysis.git) - Изучение закономерностей, определяющих успешность игр
 - 📊 [Gofast-user](https://github.com/AlenEvtikhov/gofast-user-analysis.git) - Статистический анализ данных.Проверка гипотез для роста бизнеса
 - 🏠 [Property_sales](https://github.com/AlenEvtikhov/property_sales_analysis-.git) - Исследовательский анализ данных. Определение рыночной стоимости объектов недвижимости
+- 💳 [Investigation-of-borrowers](https://github.com/AlenEvtikhov/Investigation-of-borrowers-reliability.git) - Предобработка данных.Оценка кредитоспособности потенциального заёмщика
+- 🎵 [Yandex_music](https://github.com/AlenEvtikhov/Yandex_music.git) - Сравнение поведения пользователей
+- 📖 [Sql-book](https://github.com/AlenEvtikhov/sql-book-insights.git) - SQL, анализ данных, предложение нового продукта
 
+<br>
 📫 Как связаться:
 
  • [Email](mailto:alen.evtikhov@gmail.com) 

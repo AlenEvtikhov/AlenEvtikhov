@@ -25,4 +25,4 @@
 - 📈 [Decisions](https://github.com/AlenEvtikhov/decisions-at-the-business-level.git) — Принятие решений в бизнесе через проверку гипотез(A/B тестирование)
 
 📫 Как связаться:
- • [Email](mailto:alen.evtikhov@gmail.com) • Telegram: @alen_evtikhov
+ • [Email](mailto:alen.evtikhov@gmail.com) • Telegram: [@alen_evtikhov](https://t.me/alen_evtikhov)

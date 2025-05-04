@@ -48,6 +48,7 @@ BI и визуализация:
 - 💳 [Investigation-of-borrowers](https://github.com/AlenEvtikhov/Investigation-of-borrowers-reliability.git) - Предобработка данных.Оценка кредитоспособности потенциального заёмщика
 - 🎵 [Yandex_music](https://github.com/AlenEvtikhov/Yandex_music.git) - Сравнение поведения пользователей
 - 📖 [Sql-book](https://github.com/AlenEvtikhov/sql-book-insights.git) - SQL, анализ данных, предложение нового продукта
+- 🧭 [Ted-dashboard-insights](https://github.com/AlenEvtikhov/ted-dashboard-insights.git) - Разработка дашборда
 
 <br>
 📫 Как связаться:

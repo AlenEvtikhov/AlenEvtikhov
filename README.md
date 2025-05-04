@@ -11,9 +11,8 @@
 - 7+ лет в ритейле и e-commerce (в т.ч. DIY-сегмент)
 - Работа с аналитикой клиентского поведения, закупками и ассортиментом
 
-📊 Инструменты:
 
-🛠️ **Технологии и инструменты**
+🛠️ **Технологии и инструменты:**
 
 **Языки и библиотеки:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +30,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
-
 **Инфраструктура и инструменты:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -40,6 +38,9 @@
 - 🎯[Churn Predictor](https://github.com/AlenEvtikhov/bank-churn-analysis.git) — Анализ оттока клиентов регионального банка 
 - 🧠 [Foodscape](https://github.com/AlenEvtikhov/moscow-foodscape-analysis.git) — Исследование рынка для открытия нового заведения 
 - 📈 [Decisions](https://github.com/AlenEvtikhov/decisions-at-the-business-level.git) — Принятие решений в бизнесе через проверку гипотез(A/B тестирование)
+- 🔻 [Purchase-funnel](https://github.com/AlenEvtikhov/purchase-funnel-A-B.git)- Анализ воронки продаж
+- 🎮 [Game-sales](https://github.com/AlenEvtikhov/game-sales-analysis.git)- Изучение закономерностей, определяющих успешность игр
+- 
 
 📫 Как связаться:
  • [Email](mailto:alen.evtikhov@gmail.com) • Telegram: [@alen_evtikhov](https://t.me/alen_evtikhov)

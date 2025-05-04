@@ -25,10 +25,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **BI и визуализация:**
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![DataLens](https://img.shields.io/badge/-Yandex%20DataLens-FFCC00?style=flat&logo=yandex&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![DataLens](https://img.shields.io/badge/-Yandex%20DataLens-FFCC00?style=flat&logo=yandex&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
 
 **Инфраструктура и инструменты:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
